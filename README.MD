@@ -3,7 +3,8 @@
 
 Welcome to Bunny, the ultimate Knitter's and Crocheter's Tool! Enhance your knitting and crocheting experience with real-time loop counting and error detection.
 
-## [Introduction](https://github.com/aimeelramirez/Bunny/wiki/Introduction) 📖
+Check out the process here:
+## [Documentation](https://github.com/aimeelramirez/Bunny/wiki/Introduction) 📖
 
 ### Description 📜
 Bunny is a cutting-edge application designed to enhance the knitting and crocheting experience by providing real-time loop counting and error detection. Leveraging advanced technologies such as TensorFlow, MediaPipe, and OpenCV, this app ensures accuracy and consistency in your projects. Whether you are a beginner or an experienced artisan, this tool helps you maintain perfect stitch counts and detect anomalies to prevent mistakes.
